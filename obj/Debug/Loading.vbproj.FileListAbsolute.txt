@@ -1,0 +1,12 @@
+c:\users\giuseppe\documents\visual studio 2013\Projects\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\bin\Debug\Loading.exe
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\bin\Debug\Loading.pdb
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\bin\Debug\Loading.xml
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.vbprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.Form1.resources
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.Resources.resources
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.vbproj.GenerateResource.Cache
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.exe
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.xml
+C:\Users\Giuseppe\Documents\Visual Studio 2013\Projects\Loading\Loading\obj\Debug\Loading.pdb
